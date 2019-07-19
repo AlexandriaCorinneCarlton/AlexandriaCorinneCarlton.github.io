@@ -1,3 +1,3 @@
-# Kiriti's personal website
+# Corinne's personal website
 
-### [kiritigowda.github.io](http://kiritigowda.github.io)
+### [AlexandriaCorinneCarlton.github.io](http://AlexandriaCorinneCarlton.github.io)
